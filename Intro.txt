@@ -1,0 +1,1 @@
+This project is to crawl all the images in a web site and export their data to an Excel file.
